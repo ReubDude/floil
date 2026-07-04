@@ -18,7 +18,7 @@ export const metadata = {
   title: 'FLOIL — Load Faster. Work Smarter.',
   description:
     'FLOIL is a patented professional hair foil with a pre-formed loading lip for faster, one-handed loading. A better tool for highlighting. Patent pending.',
-  metadataBase: new URL('https://floil.com'),
+  metadataBase: new URL('https://floil.us'),
   openGraph: {
     title: 'FLOIL — Load Faster. Work Smarter.',
     description:
